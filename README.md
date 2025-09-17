@@ -52,7 +52,7 @@ The **Minishell** project is a simplified implementation of a UNIX shell written
    ```
 
 ## Acknowledgements
-A huge thank you to my partner [Razane Traoui](https://github.com/RznTr) for her dedication, teamwork, and countless hours spent debugging and building this project together, couldn’t have done it without you! 🙌👩‍💻👨‍💻
+A huge thank you to my partner [Razane Traoui](https://github.com/razanetraoui) for her dedication, teamwork, and countless hours spent debugging and building this project together, couldn’t have done it without you! 🙌👩‍💻👨‍💻
 
 
 ## License
